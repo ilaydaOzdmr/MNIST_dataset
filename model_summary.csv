@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-score,Epoch,Batch Size,Train Time
+GoogLeNet,0.9330000281333923,0.9373670461583181,0.933,0.932757870464283,3,64,1139.493891954422
